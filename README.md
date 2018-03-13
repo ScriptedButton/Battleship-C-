@@ -1,3 +1,3 @@
-# Battleship-C-
+# Battleship-CPP
 
 Battleship in C++
